@@ -1,2 +1,2 @@
 # Basic-HTML-card-website-interactive-
-This is just a template you can use for a basic card interactive html website. I used this for a school project..
+Its commented so you should be able to figure some stuff out atleast.
