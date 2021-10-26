@@ -5,4 +5,6 @@ Its commented so you should be able to figure some stuff out atleast.
 
 Adding more than 5 cards could lead to some issues with how cards are displayed (im still trying to figure out why and fix it).
 
+To open the website either drag the file in your browser or upload it on a web server..
+
 html and css files are commented to put you in the right direction..
